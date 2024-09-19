@@ -52,13 +52,13 @@ python recontoolkit.py
 
 
 ### 3. Archive URLs Retrieval
-```
+
 **Description**: Retrieves archived URLs from the Wayback Machine for the specified domain.
 
 **Input Guide**:
 - **Domain**: The domain to query (e.g., `subs.txt`).
 - The results will be saved in `archived_urls.txt`.
-```
+
 
 ### 4. Directory Probing
 
