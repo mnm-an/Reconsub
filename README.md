@@ -12,8 +12,8 @@ Reconhunt is a python-based toolkit enables security researchers and bug hunters
 - **Directory Probing**: Probes directories on discovered subdomains, identifying valid or redirected paths.
 
 ## Files Overview:
-`recontoolkit.py` The main script with all the functionality (subdomain discovery, VirusTotal query, archive retrieval, and directory probing).
-`subs.txt` A list of potential subdomains used for brute-forcing during subdomain discovery.
+- `recontoolkit.py` The main script with all the functionality (subdomain discovery, VirusTotal query, archive retrieval, and directory probing).
+- `subs.txt` A list of potential subdomains used for brute-forcing during subdomain discovery.
 
 ## How To Use:
 **Clone the repository:**
