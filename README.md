@@ -2,7 +2,7 @@
 > This script is intended solely for ethical hacking and bug bounty hunting purposes. Please ensure you have explicit authorization before running this tool on any domain or system. Unauthorized use may violate laws or regulations.
 
 ## Description: 
-Reconhunt is a python-based toolkit enables security researchers and bug hunters to perform several reconnaissance tasks including subdomain brute-forcing, querying VirusTotal for associated subdomains, retrieving archived URLs, and probing directories on discovered subdomains. It's designed for efficient multi-threaded execution to deliver results rapidly and outputs them to files for further analysis.
+Reconsub is a python-based toolkit enables security researchers and bug hunters to perform several reconnaissance tasks including subdomain brute-forcing, querying VirusTotal for associated subdomains, retrieving archived URLs, and probing directories on discovered subdomains. It's designed for efficient multi-threaded execution to deliver results rapidly and outputs them to files for further analysis.
 
 ## Features
 
