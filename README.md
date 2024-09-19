@@ -52,7 +52,9 @@ python recontoolkit.py
 
 
 ### 3. Archive URLs Retrieval
+Inline `code`
 
+Indented code
 **Description**: Retrieves archived URLs from the Wayback Machine for the specified domain.
 
 **Input Guide**:
@@ -60,7 +62,7 @@ python recontoolkit.py
 - The results will be saved in `archived_urls.txt`.
 
 
-### 3. Directory Probing
+### 4. Directory Probing
 
 **Description**: Probes specific directories across all discovered subdomains for valid or redirected paths.
 
