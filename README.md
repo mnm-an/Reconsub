@@ -71,3 +71,7 @@ python recontoolkit.py
 ## Contribution and Legal Disclaimer
 
 >This tool is for authorized and legal use only, such as bug bounty programs or assessments where explicit permission has been granted. Contributions are welcome to improve functionality or fix bugs. Please submit issues or pull requests through the GitHub repository.
+
+## License
+
+MIT
